@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Abd-ElRahmanMamdouh
 - 👀 I’m a web developer with Python/Django
-- Company: https://era-coding.com/
+- Freelance Team: https://era-coding.com/
 - Portfolio: https://abdelrahman.era-coding.com/
